@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "title" : "Admin Araniyor",
+        "description" : "Yeni bir admin aranıyor",
+        "link" : "www.google.com",
+        "image" : "/image/background.jpeg"
+
+    },
+    {
+        "id" : 2,
+        "title" : "Tasarimci Araniyor",
+        "description" : "Yeni bir tasarimci aranıyor",
+        "link" : "www.google.com",
+        "image" : "/image/background.jpeg"
+    },
+    {
+        "id" : 3,
+        "title" : "Developer Araniyor",
+        "description" : "Yeni bir developer aranıyor",
+        "link" : "www.google.com",
+        "image" : "/image/background.jpeg"
+    },
+    {
+        "id" : 4,
+        "title" : "Admin Araniyor",
+        "description" : "Yeni bir admin aranıyor",
+        "link" : "www.google.com",
+        "image" : "/image/background.jpeg"
+    }
+    
+]
